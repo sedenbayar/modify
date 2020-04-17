@@ -1,0 +1,14 @@
+cd /home/osboxes/Documents
+
+
+/bin/bash SEDENv12.sh -r -u /home/osboxes/Desktop/Example1
+
+/bin/bash SEDENv12.sh -r -u /home/osboxes/Desktop/Example3
+
+/bin/bash SEDENv12.sh -r -u /home/osboxes/Desktop/Example1/seden12
+
+/bin/bash SEDENv12.sh -l /home/osboxes/Desktop/Example1/SEDEN12
+
+/bin/bash SEDENv12.sh -l /home/osboxes/Desktop/Example1/SEDEN23
+
+
